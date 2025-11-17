@@ -25,7 +25,7 @@ export default function Projects() {
     const fetchProjects = async () => {
       try {
         // --- API INTEGRATION: CONNECTING TO BACKEND ---
-        const res = await fetch("http://localhost:5000/api/projects"); 
+        const res = await fetch("https://portfoliobackend-edh1.onrender.com/api/projects"); 
         
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`);

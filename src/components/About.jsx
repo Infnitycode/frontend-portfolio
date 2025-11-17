@@ -56,9 +56,9 @@ export default function About() {
             variants={childVariants}
           >
             I am a **passionate full-stack developer** who thrives on bringing ideas to life. My expertise lies in crafting
-            **stunning UIs**, architecting **clean and scalable backends**, and implementing
-            **crazy, engaging animations** that elevate the user experience.
-          </motion.p>
+           <b>stunning UIs</b>, architecting <b>clean</b> and scalable backends, and <b>implementing</b>
+            crazy, engaging <b>animations</b> that elevate the user experience.
+          </motion.p> 
 
           {/* Key Details/Current Status */}
           <motion.div

@@ -35,7 +35,7 @@ export const skills = [
     category: "Database",
     items: [
       { name: "MongoDB", icon: SiMongodb, color: "text-green-700" },
-      { name: "SQL", icon: FaDatabase, color: "text-yellow-700" },
+   
     ],
   },
   // --- Nayi Category: Creative Tools Added ---
