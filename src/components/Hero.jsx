@@ -46,7 +46,7 @@ export default function Hero() {
       >
         {/* Replace with your actual image component */}
         <div className="w-36 h-36 md:w-48 md:h-48 rounded-full bg-indigo-600/20 border-4 border-indigo-500 shadow-2xl flex items-center justify-center mx-auto overflow-hidden">
-         <img src="/src/assets/img.jpg" alt="Rohan Bisht Avatar" className="w-full h-full object-cover" />
+         <img src="/img.jpg" alt="Rohan Bisht Avatar" className="w-full h-full object-cover" />
           {/* <span className="text-6xl font-extrabold text-indigo-400">RB</span> */}
         </div>
       </motion.div>
